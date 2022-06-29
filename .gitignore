@@ -2,3 +2,4 @@ doomed.txt.bak
 .gitignore.bak
 log/
 READMEold.md
+*.bak
