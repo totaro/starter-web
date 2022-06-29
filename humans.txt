@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tom Ro tom.ro@something.com @tom.ro
 
 # THANKS
 
