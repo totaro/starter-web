@@ -22,3 +22,7 @@ can be on any server or even local
 file system.
 
 ## How to Contribute
+
+### Copyright
+
+2022 TR
