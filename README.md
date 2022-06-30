@@ -30,4 +30,4 @@ review.
 
 ### Copyright
 
-2022 TR
+2022 TR. All rights reserved.
